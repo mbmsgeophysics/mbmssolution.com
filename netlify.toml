@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "http://www.mbmsgeophysique.com"
-  status = 404
-  force = true
